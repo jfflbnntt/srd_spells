@@ -38,7 +38,6 @@ The description preserves whitespace in the form of linebreak characters (\n). I
 ```
 "bard",
 "cantrip",
-"cleric (trickery)",
 "cleric",
 "druid",
 "level1",
@@ -51,7 +50,6 @@ The description preserves whitespace in the form of linebreak characters (\n). I
 "level8",
 "level9",
 "paladin",
-"palidan",
 "ranger",
 "sorcerer",
 "warlock",

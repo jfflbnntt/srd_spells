@@ -175,7 +175,6 @@
     "name": "Charm Person",
     "tags": [
       "bard",
-      "cleric (trickery)",
       "druid",
       "sorcerer",
       "warlock",
@@ -2803,7 +2802,7 @@
     "tags": [
       "cleric",
       "druid",
-      "palidan",
+      "paladin",
       "ranger",
       "sorcerer",
       "level3"
